@@ -1,0 +1,19 @@
+2. Tienda Virtual
+    - Buscar
+    - Detalle
+    - Agregar a la cesta
+    - Ver cesta
+    - Eliminar producto de cesta
+    - Comprar (con PayPal)
+
+Credenciales de la base de datos:
+bbdd: electronicxxiii
+
+electronicxxiii_cli
+r4_$81rr34U
+
+electronicxxiii_adm
+benzema23
+
+
+
