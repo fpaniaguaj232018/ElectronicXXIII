@@ -11,8 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Electronic XXIII</h1>
-        <?php
-        
-        ?>
+        <a href="./controller/catalogoController.php">Catalogo</a>
     </body>
 </html>
